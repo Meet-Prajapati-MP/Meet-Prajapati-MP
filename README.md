@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Mobile App Development Intern<br>I specialize in building modern, high-performance mobile applications with a strong focus on user experience and clean design.<br><br>📱 I enjoy transforming ideas into real, interactive apps, emphasizing clean UI, smooth performance, and scalable architecture to deliver reliable, maintainable solutions.<br><br>🤖 I also work with n8n to build intelligent AI agents and automate workflows that make applications smarter, faster, and more efficient.<br><br>🚀 Let’s create impactful, future-ready mobile experiences that solve real-world problems.
+👨‍💻 Mobile App Development Intern<br>I specialize in building modern, high-performance mobile applications with a strong focus on user experience and clean design.<br><br>📱 I enjoy transforming ideas into real, interactive apps, emphasizing clean UI, smooth performance, and scalable architecture to deliver reliable, maintainable solutions.<br><br>🤖 I also work with n8n & Make.com to build intelligent AI agents and automate workflows that make applications smarter, faster, and more efficient.<br><br>🚀 Let’s create impactful, future-ready mobile experiences that solve real-world problems.
 
 
 ## 🌐 Socials:
